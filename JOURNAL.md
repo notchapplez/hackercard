@@ -10,10 +10,29 @@ This is my journal of the design and building process of **HackerCard**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/434).
 
 
-## 10/12/2025 - Finished the pcb, got excited  
+## 10/12/2025 11 AM - Finished the pcb, got excited  
 
 Followed the tutorial @ jams.hackclub.com, followed the schematic instructions, designed the unique pcb, drew a cute bongo cat in gimp, placed it on the pcb, made its  left paw light up, exported the gerbers, checked everything and got excited that I will maybe get this cute card :3
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--0d50c6614864f94a4beea378e11e908a3113ff9b/image.png)
+  
+
+## 10/12/2025 7 PM - Prepared necessary files for ship  
+
+Exported:
+ -Pick and place 
+ -Gerber
+ -Bill of Materials
+
+Updated README.md with:
+	-3d Model
+	-Screenshot
+
+Prepared files for Upload to Github
+-> some trouble that shipping system doesn't accept BOM(*).csv
+Everything was generally fine. Took 15-25 Minutes including Upload
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--d410e69008d75107bff36dccc19e4549e2e5b7e5/image.png)
+
   
 
