@@ -17,7 +17,7 @@ Followed the tutorial @ jams.hackclub.com, followed the schematic instructions, 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--0d50c6614864f94a4beea378e11e908a3113ff9b/image.png)
   
 
-## 10/12/2025 7 PM - Prepared necessary files for ship  
+## 10/12/2025 7:26 PM - Prepared necessary files for ship  
 
 Exported:
  -Pick and place 
@@ -34,5 +34,18 @@ Everything was generally fine. Took 15-25 Minutes including Upload
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--d410e69008d75107bff36dccc19e4549e2e5b7e5/image.png)
 
+  
+
+## 10/12/2025 7:32 PM - Final touches 4 ship  
+
+Final touches to be able to meet Hack club Blueprint Ship requirements
+
+-renamed bom-something.csv to bom.csv
+-added a veeeery beautiful banner
+-polished github repo and added final touches
+-admired my card
+-Made some edits to the project description on Blueprint
+
+![Screenshot From 2025-10-12 19-28-39.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0f9cc3d2998314664ef00a82366a95a7d9098791/Screenshot%20From%202025-10-12%2019-28-39.png)
   
 
