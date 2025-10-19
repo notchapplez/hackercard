@@ -49,3 +49,10 @@ Final touches to be able to meet Hack club Blueprint Ship requirements
 ![Screenshot From 2025-10-12 19-28-39.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0f9cc3d2998314664ef00a82366a95a7d9098791/Screenshot%20From%202025-10-12%2019-28-39.png)
   
 
+## 10/19/2025 - Made a horrific case  
+
+Well...
+I tried to make a case. Looks fine to me. Has slots on the sides to make the outer cards easier to take out. Should be perfect size. Didn't realize it took me 2 HOURS to get something. Should be good enough for this. And if you wanna take a look at it, here ya go:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--cf36e15b66b8a87a7b4a0ba4889993753257f706/image.png)
+  
+
