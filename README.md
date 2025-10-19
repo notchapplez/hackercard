@@ -7,8 +7,11 @@
 
 <img width="929" height="601" alt="3dmodel" src="https://github.com/user-attachments/assets/9799d0c1-7fda-404d-b762-b425b42200b2" />
 
+#### woohoo case
+![case](./image.png)
+
+Spent ----1.5-2h----- after the case, the time jumped to 4 hours...
 
 
-Spent 1.5-2h
 
 ## @notchapplez - 2025.12.10
